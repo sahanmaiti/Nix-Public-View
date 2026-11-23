@@ -1,5 +1,7 @@
 # Demo
 
+Play both videos at [the watch page](https://sahanmaiti.github.io/Nix-Public-View/assets/demo/watch.html) after GitHub Pages is enabled for this repository. Opening the MP4s on github.com does not start a player.
+
 | File | Length | What it shows |
 |---|---|---|
 | `nix-demo.mp4` | 12 seconds | Closing the last window quits the app |

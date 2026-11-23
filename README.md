@@ -104,12 +104,9 @@ The same Settings window with the menu bar popover open.
 
 <img src="assets/screenshots/settings-and-menu.jpg" alt="Nix Settings window with the menu bar popover open beside it" width="800">
 
-Videos, in [assets/demo/](assets/demo/README.md):
+[Watch the demos](https://sahanmaiti.github.io/Nix-Public-View/assets/demo/watch.html). The product demo is 12 seconds. Onboarding is 46 seconds and includes the Accessibility permission.
 
-- [Product demo](assets/demo/nix-demo.mp4) — 12 seconds. Closing a window quits the app.
-- [Onboarding](assets/demo/nix-onboarding.mp4) — 46 seconds. First launch, including the Accessibility permission.
-
-GitHub plays these when you open the file. The README does not embed the video.
+GitHub’s file browser does not play MP4s stored in the repository. Those links download, or they stop at “we can’t show files that are this big.” The watch page is served by GitHub Pages, which sends the files as video.
 
 ## Installation and compatibility
 
