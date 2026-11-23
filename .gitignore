@@ -1,0 +1,23 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Secrets and signing material. This repository must stay free of them.
+.env
+.env.*
+*.pem
+*.p12
+*.pfx
+*.cer
+*.certSigningRequest
+*.mobileprovision
+*.provisionprofile
+*.key
+secrets/
+
+# Local build output, if any example is opened in Xcode later.
+DerivedData/
+build/
+*.xcarchive
+xcuserdata/
+*.xcuserstate
