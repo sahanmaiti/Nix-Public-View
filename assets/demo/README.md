@@ -1,6 +1,6 @@
 # Demo
 
-Play both videos at [the watch page](https://sahanmaiti.github.io/Nix-Public-View/assets/demo/watch.html) after GitHub Pages is enabled for this repository. Opening the MP4s on github.com does not start a player.
+The README plays the videos from GitHub-hosted attachments. Opening the MP4s in this folder on github.com does not start a player. The same files also play at [the watch page](https://sahanmaiti.github.io/Nix-Public-View/assets/demo/watch.html).
 
 | File | Length | What it shows |
 |---|---|---|

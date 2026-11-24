@@ -104,9 +104,13 @@ The same Settings window with the menu bar popover open.
 
 <img src="assets/screenshots/settings-and-menu.jpg" alt="Nix Settings window with the menu bar popover open beside it" width="800">
 
-[Watch the demos](https://sahanmaiti.github.io/Nix-Public-View/assets/demo/watch.html). The product demo is 12 seconds. Onboarding is 46 seconds and includes the Accessibility permission.
+Product demo, 12 seconds.
 
-GitHub’s file browser does not play MP4s stored in the repository. Those links download, or they stop at “we can’t show files that are this big.” The watch page is served by GitHub Pages, which sends the files as video.
+https://github.com/user-attachments/assets/31ef4137-7e8f-4fad-801a-c1fd90a20ec7
+
+Onboarding, 46 seconds, including the Accessibility permission.
+
+https://github.com/user-attachments/assets/35a12bbc-1fb3-4d3b-8500-3ef03f3c3cc2
 
 ## Installation and compatibility
 
