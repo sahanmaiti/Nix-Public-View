@@ -71,7 +71,7 @@ The rule type can represent a per-app grace period, using the global value when 
 
 ## Direct distribution, sandbox off, hardened runtime on
 
-**Decision.** Bundle id `com.sahan.Nix`. Deployment target macOS 14.6. App Sandbox disabled. Hardened runtime enabled. Sparkle 2.9.3 for updates. Notarized Developer ID disk image.
+**Decision.** Bundle id `com.sahan.Nix`. Deployment target macOS 14.6. App Sandbox disabled. Hardened runtime enabled. Sparkle 2.9.3 for updates. Notarized Developer ID disk image, published at [nix-mu.vercel.app](https://nix-mu.vercel.app).
 
 **Why.** `AXUIElement` observation of other processes is incompatible with the Mac App Store sandbox. Hardened runtime stays on because notarization expects it and because turning it off is not required for Accessibility. Sparkle is the usual update channel for a Developer ID app, and it is the only third-party package.
 

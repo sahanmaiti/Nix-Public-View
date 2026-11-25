@@ -2,7 +2,7 @@
 
 Nix is a commercial menu bar utility for macOS. Its job is one sentence: when the last window of an application closes, quit that application.
 
-The shipping product is version 1.0.4. It requires macOS 14.6 or later and is distributed as a notarized disk image, not through the Mac App Store.
+The shipping product is version 1.0.4. It requires macOS 14.6 or later and is distributed as a notarized disk image from [nix-mu.vercel.app](https://nix-mu.vercel.app), not through the Mac App Store.
 
 ## The problem
 
@@ -51,7 +51,7 @@ Rules and preferences stay in the app's preferences. License and trial state sta
 
 ## Distribution
 
-The app is signed with a Developer ID, hardened runtime is on, and the App Sandbox is off. The sandbox has to be off: the Accessibility API this product depends on is not available to a sandboxed Mac App Store process. That constraint is shared by other utilities in this category, and it is why Nix ships as a direct download.
+The app is signed with a Developer ID, hardened runtime is on, and the App Sandbox is off. The sandbox has to be off: the Accessibility API this product depends on is not available to a sandboxed Mac App Store process. That constraint is shared by other utilities in this category, and it is why Nix ships as a direct download from [nix-mu.vercel.app](https://nix-mu.vercel.app).
 
 Updates are delivered by Sparkle 2.9.3 from a signed appcast. Signing keys for that feed are not part of this repository.
 

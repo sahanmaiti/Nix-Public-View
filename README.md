@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/35a12bbc-1fb3-4d3b-8500-3ef03f3c3cc2
 ## Installation and compatibility
 
 - macOS 14.6 Sonoma or later.
-- Install from the notarized disk image on the product site. This repository does not build Nix.
+- Install from the notarized disk image on [nix-mu.vercel.app](https://nix-mu.vercel.app). This repository does not build Nix.
 - On first launch, grant Accessibility access under System Settings → Privacy & Security → Accessibility. Nix cannot see window close events without it.
 - Not distributed on the Mac App Store.
 

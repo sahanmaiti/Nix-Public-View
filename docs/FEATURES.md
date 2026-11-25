@@ -58,7 +58,7 @@ The rule model can store a per-app grace period. Settings does not expose that c
 - 7-day full-function trial from first launch.
 - After expiry, monitoring stays off until a license is activated.
 - The user can enter a license key, or open an activation link the store sends.
-- Settings shows the trial state and a purchase button while the app is unlicensed. The price shown in the product is $9.99.
+- Settings shows the trial state and a purchase button while the app is unlicensed. The price shown in the product is $9.99. Purchase is on [nix-mu.vercel.app](https://nix-mu.vercel.app).
 
 ## Updates and session behavior
 
